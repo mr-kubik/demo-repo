@@ -1,3 +1,3 @@
-# Demo
+# Demo for project
 
 Some text
